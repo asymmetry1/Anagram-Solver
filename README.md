@@ -1,6 +1,6 @@
 # Anagram Solver
 
-A command-line tool to find anagrams from a given set of letters, with advanced features like excluding known words and generating sentences.
+A command-line tool to find anagrams from a given set of letters, with some features like excluding known words and generating sentences.
 
 ## Features
 - Find all possible anagrams from input letters
