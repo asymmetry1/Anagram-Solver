@@ -17,6 +17,7 @@ A command-line tool to find anagrams from a given set of letters, with advanced 
 3. Provide a word list file (e.g., `words.txt`), one word per line. Common sources:
    - `/usr/share/dict/words` on Unix systems
    - Download from [english-words](https://github.com/dwyl/english-words)
+   - Also already included in the demo wordlist folder.
 
 ## Usage
 ```bash
