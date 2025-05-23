@@ -21,4 +21,4 @@ A command-line tool to find anagrams from a given set of letters, with some feat
 
 ## Usage
 ```bash
-python anagram_solver.py LETTERS -w WORDLIST [OPTIONS]
+python angsolver.py LETTERS -w WORDLIST [OPTIONS]
